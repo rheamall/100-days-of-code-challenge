@@ -5,8 +5,10 @@ All my projects with the 100 days of coding in Python challenge (Updated as of J
   - Day 2: Tip Calculator
 
 ### Intermediate Projects
+  -
 
 ### Advanced Projects
+  -
 
 ## Feedback is welcome. Connect with me:
 - Linkedin: https://www.linkedin.com/in/rheamall
