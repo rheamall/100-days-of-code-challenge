@@ -1,6 +1,5 @@
 # #100DaysofCode - Challenge
 All my projects with the 100 days of coding in Python challenge.
-Start date: 17th June
 
 ### Basic Projects (Updated as of June 18th, 2024):
   - Day 1: Band Name Generator
