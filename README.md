@@ -1,7 +1,7 @@
 # #100DaysofCode - Challenge
 All my projects with the 100 days of coding in Python challenge.
 
-### Basic Projects (Updated as of June 28th, 2024):
+### Basic Projects (Updated as of June 27th, 2024):
   - Day 1: Band Name Generator
   - Day 2: Tip Calculator
   - Day 3: Treasure Island (Gameplay)
