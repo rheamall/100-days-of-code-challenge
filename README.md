@@ -1,5 +1,5 @@
 # #100DaysofCode - Challenge
-All my projects with the 100 days of coding in Python challenge.
+This is a repository of all the mini-projects I built while doing the 100 days of coding in Python challenge.
 
 ### Basic Projects (Updated as of June 29th, 2024):
   - Day 1: Band Name Generator
