@@ -1,7 +1,7 @@
 # #100DaysofCode - Challenge
 This is a repository of all the mini-projects I built while doing the 100 days of coding in Python challenge.
 
-### Basic Projects (Updated as of June 29th, 2024):
+### Basic Projects (Updated as of 1st July 2024):
   - Day 1: Band Name Generator
   - Day 2: Tip Calculator
   - Day 3: Treasure Island (Gameplay)
@@ -9,6 +9,7 @@ This is a repository of all the mini-projects I built while doing the 100 days o
   - Day 5: Password Generator
   - Day 6: Reeborg's World - Escaping a Maze
   - Day 7: Hangman (Gameplay)
+  - Day 8: Building a Ceaser Cipher program
 
 ### Intermediate Projects
   -
