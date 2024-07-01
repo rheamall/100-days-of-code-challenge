@@ -9,7 +9,7 @@ This is a repository of all the mini-projects I built while doing the 100 days o
   - Day 5: Password Generator
   - Day 6: Reeborg's World - Escaping a Maze
   - Day 7: Hangman (Gameplay)
-  - Day 8: Building a Ceaser Cipher program
+  - Day 8: Ceaser Cipher program
 
 ### Intermediate Projects
   -
