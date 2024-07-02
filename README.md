@@ -4,7 +4,7 @@ This is a repository listing all the projects I built while doing the 100 days o
 ### 📖 Basic Projects (Updated as of 1st July 2024):
   - Day 1: Band Name Generator
   - Day 2: Tip Calculator
-  - Day 3: Treasure Island (Gameplay)
+  - Day 3: Deep Sea Exploration (Gameplay)
   - Day 4: Rock, Paper, Scissors (Gameplay)
   - Day 5: Password Generator
   - Day 6: Reeborg's World - Escaping a Maze
