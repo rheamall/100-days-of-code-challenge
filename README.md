@@ -1,5 +1,6 @@
 # #100DaysofCode - Challenge
-This is a repository of all the mini-projects I built while doing the 100 days of coding in Python challenge.
+This is a repository of all the mini-projects I built while doing the 100 days of coding in Python challenge (following the 100 Days of Code: The Complete Python Pro Bootcamp
+course offered by Udemy).
 
 ### Basic Projects (Updated as of 1st July 2024):
   - Day 1: Band Name Generator
