@@ -10,6 +10,7 @@ This is a repository listing all the projects I built while doing the 100 days o
   - Day 6: Reeborg's World - Escaping a Maze
   - Day 7: Hangman (Gameplay)
   - Day 8: Ceaser Cipher program
+  - Day 9: Secret Auction program
 
 ### 📔 Intermediate Projects
   -
