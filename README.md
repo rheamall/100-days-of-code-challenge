@@ -1,9 +1,9 @@
 # #100DaysofCode - Challenge
 This is a repository listing all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📖 Basic Projects + Concepts covered (Updated as of 2nd July 2024):
+### 📖 Basic Projects (Updated as of 2nd July 2024):
 
-| Day     | Project Name                             | Concepts covered                                          |
+| Day     | Project Name                             | Concepts used                                             |
 | ------- | -------------                            | -------------                                             |
 | Day 01  | Band Name Generator                      | basics of Python variables                                |
 | Day 02  | Tip Calculator                           | datatypes, string manipulation                            |
