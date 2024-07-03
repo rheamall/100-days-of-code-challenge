@@ -3,7 +3,7 @@ This is a repository listing all the projects I built while doing the 100 days o
 
 ### 📖 Basic Projects (Updated as of 3rd July 2024):
 
-| Day     | Project Name                             | Concepts used                                             |
+| Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
 | Day 01  | Band Name Generator                      | basics of Python variables                                |
 | Day 02  | Tip Calculator                           | datatypes, string manipulation                            |
