@@ -2,6 +2,12 @@
 This is a repository listing all the projects I built while doing the 100 days of coding in Python challenge.
 
 ### 📖 Basic Projects + Concepts covered (Updated as of 2nd July 2024):
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
   - Day 1: Band Name Generator - *Basics of Python variables*
   - Day 2: Tip Calculator - *Python datatypes, string manipulation*
   - Day 3: Deep Sea Exploration (Gameplay) - *Control flow, conditional statements*
