@@ -3,17 +3,17 @@ This is a repository listing all the projects I built while doing the 100 days o
 
 ### 📖 Basic Projects + Concepts covered (Updated as of 2nd July 2024):
 
-| Day     | Project Name                             | Concepts                                                  |
+| Day     | Project Name                             | Concepts covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 01  | Band Name Generator                      | Basics of Python variables                                |
+| Day 01  | Band Name Generator                      | basics of Python variables                                |
 | Day 02  | Tip Calculator                           | Python datatypes, string manipulation                     |
-| Day 03  | Deep Sea Exploration (Gameplay)          | Control flow, conditional statements                      |
-| Day 04  | Rock, Paper, Scissors (Gameplay)         | Basics of Python variables                                |
-| Day 05  | Password Generator                       | Python datatypes, string manipulation                     |
-| Day 06  | Reeborg's World - Escaping a Maze        | Control flow, conditional statements                      |
-| Day 07  | Hangman (Gameplay)                       | Basics of Python variables                                |
-| Day 08  | Ceaser Cipher program                    | Python datatypes, string manipulation                     |
-| Day 09  | Secret Auction program                   | Control flow, conditional statements                      |
+| Day 03  | Deep Sea Exploration (Gameplay)          | control flow, conditional statements                      |
+| Day 04  | Rock, Paper, Scissors (Gameplay)         | randomization, lists                                      |
+| Day 05  | Password Generator                       | loops                                                     |
+| Day 06  | Reeborg's World - Escaping a Maze        | functions, Karel (programming language)                   |
+| Day 07  | Hangman (Gameplay)                       | randomization, lists, loops                               |
+| Day 08  | Ceaser Cipher program                    | functions with inputs                                     |
+| Day 09  | Secret Auction program                   | dictionaries                                              |
 | Day 10  | Math Calculator                          | Functions with outputs                                    |
 
 ### 📔 Intermediate Projects
