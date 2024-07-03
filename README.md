@@ -1,7 +1,7 @@
 # #100DaysofCode - Challenge
 This is a repository listing all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📖 Basic Projects (Updated as of 2nd July 2024):
+### 📖 Basic Projects (Updated as of 3rd July 2024):
 
 | Day     | Project Name                             | Concepts used                                             |
 | ------- | -------------                            | -------------                                             |
@@ -15,6 +15,7 @@ This is a repository listing all the projects I built while doing the 100 days o
 | Day 08  | Ceaser Cipher program                    | functions with inputs                                     |
 | Day 09  | Secret Auction program                   | dictionaries                                              |
 | Day 10  | Math Calculator                          | functions with outputs                                    |
+| Day 11  | Blackjack Capstone Project               | application of all concepts so far                        |
 
 ### 📔 Intermediate Projects
   -
