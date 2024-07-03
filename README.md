@@ -3,10 +3,11 @@ This is a repository listing all the projects I built while doing the 100 days o
 
 ### 📖 Basic Projects + Concepts covered (Updated as of 2nd July 2024):
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Day     | Project Name                             |
+| ------- | -------------                            |
+| Day 01  | Band Name Generator                      |
+| Day 02  | Tip Calculator                           |
+| Day 02  | Deep Sea Exploration (Gameplay)          |
 
   - Day 1: Band Name Generator - *Basics of Python variables*
   - Day 2: Tip Calculator - *Python datatypes, string manipulation*
