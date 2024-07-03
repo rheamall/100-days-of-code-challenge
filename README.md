@@ -10,8 +10,8 @@ This is a repository listing all the projects I built while doing the 100 days o
 | Day 03  | Deep Sea Exploration (Gameplay)          | control flow, conditional statements                      |
 | Day 04  | Rock, Paper, Scissors (Gameplay)         | randomization, lists                                      |
 | Day 05  | Password Generator                       | loops                                                     |
-| Day 06  | Reeborg's World - Escaping a Maze        | flowchart programming, Karel (programming language)       |
-| Day 07  | Hangman (Gameplay)                       | randomization, lists, loops                               |
+| Day 06  | Reeborg's World - Escaping a Maze        | Karel (programming language)                              |
+| Day 07  | Hangman (Gameplay)                       | flowhchart programming                                    |
 | Day 08  | Ceaser Cipher program                    | functions with inputs                                     |
 | Day 09  | Secret Auction program                   | dictionaries                                              |
 | Day 10  | Math Calculator                          | functions with outputs                                    |
