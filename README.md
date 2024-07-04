@@ -1,7 +1,7 @@
 # #100DaysofCode - Challenge
 This is a repository listing all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📖 Basic Projects (Updated as of 3rd July 2024):
+### 📖 Basic Projects (Updated as of 4th July 2024):
 
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
