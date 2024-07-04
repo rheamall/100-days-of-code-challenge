@@ -11,11 +11,12 @@ This is a repository listing all the projects I built while doing the 100 days o
 | Day 04  | Rock, Paper, Scissors - Gameplay         | randomization, lists                                      |
 | Day 05  | Password Generator                       | loops                                                     |
 | Day 06  | Reeborg's World - Escaping a Maze        | Karel (programming language)                              |
-| Day 07  | Hangman - Gameplay                       | flowchart programming                                    |
+| Day 07  | Hangman - Gameplay                       | flowchart programming                                     |
 | Day 08  | Ceaser Cipher program                    | functions with inputs                                     |
 | Day 09  | Secret Auction program                   | dictionaries                                              |
 | Day 10  | Math Calculator                          | functions with outputs                                    |
 | Day 11  | Blackjack Gameplay - Capstone Project    | application of all concepts so far                        |
+| Day 12  | Number Guessing Game                     | variable scope                                            |
 
 ### 📔 Intermediate Projects
   -
