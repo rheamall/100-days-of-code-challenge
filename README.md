@@ -1,27 +1,30 @@
 # #100DaysofCode - Challenge
 This is a repository listing all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📖 Basic Projects (Updated as of 5th July 2024):
+### 📔 Intermediate Projects (Updated as of 5th July 2024):
+| Day     | Project Name                             | Concepts Covered                                          |
+| ------- | -------------                            | -------------                                             |
+| Day 15  | The Coffee Machine Project               | setting up the local development environment              |
+
+### 📖 Basic Projects (Completed):
 
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 01  | Band Name Generator                      | basics of Python variables                                |
-| Day 02  | Tip Calculator                           | datatypes, string manipulation                            |
-| Day 03  | Deep Sea Exploration - Gameplay          | control flow, conditional statements                      |
-| Day 04  | Rock, Paper, Scissors - Gameplay         | randomization, lists                                      |
-| Day 05  | Password Generator                       | loops                                                     |
-| Day 06  | Reeborg's World - Escaping a Maze        | Karel (programming language)                              |
-| Day 07  | Hangman - Gameplay                       | flowchart programming                                     |
-| Day 08  | Ceaser Cipher program                    | functions with inputs                                     |
-| Day 09  | Secret Auction program                   | dictionaries                                              |
-| Day 10  | Math Calculator                          | functions with outputs                                    |
-| Day 11  | Blackjack Gameplay - Capstone Project    | application of all concepts so far                        |
-| Day 12  | Number Guessing Game                     | variable scope                                            |
-| Day 13  | Debugging                                | debugging tips                                            |
 | Day 14  | Higher Lower Game                        | application of all concepts so far                        |
+| Day 13  | Debugging                                | debugging tips                                            |
+| Day 12  | Number Guessing Game                     | variable scope                                            |
+| Day 11  | Blackjack Gameplay - Capstone Project    | application of all concepts so far                        |
+| Day 10  | Math Calculator                          | functions with outputs                                    |
+| Day 09  | Secret Auction program                   | dictionaries                                              |
+| Day 08  | Ceaser Cipher program                    | functions with inputs                                     |
+| Day 07  | Hangman - Gameplay                       | flowchart programming                                     |
+| Day 06  | Reeborg's World - Escaping a Maze        | Karel (programming language)                              |
+| Day 05  | Password Generator                       | loops                                                     |
+| Day 04  | Rock, Paper, Scissors - Gameplay         | randomization, lists                                      |
+| Day 03  | Deep Sea Exploration - Gameplay          | control flow, conditional statements                      |
+| Day 02  | Tip Calculator                           | datatypes, string manipulation                            |
+| Day 01  | Band Name Generator                      | basics of Python variables                                |
 
-### 📔 Intermediate Projects
-  -
 
 ### 📚 Advanced Projects
   -
