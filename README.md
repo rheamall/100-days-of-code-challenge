@@ -25,12 +25,8 @@ These are all the projects I built while doing the 100 days of coding in Python 
 | Day 02  | Tip Calculator                           | datatypes, string manipulation                            |
 | Day 01  | Band Name Generator                      | basics of Python variables                                |
 
-
-### 📚 Advanced Projects
-  -
-
 ### Credits
-Though the codes to these projects are my own, most of these projects are instructor-guided, following the "100 Days of Code: The Complete Python Pro Bootcamp" course offered on Udemy.
+Though the codes to these projects are my own, the project ideas are sourced from the "100 Days of Code: The Complete Python Pro Bootcamp" course offered on Udemy.
 
 ## Feedback is welcome. Connect with me:
 - Linkedin: https://www.linkedin.com/in/rheamall
