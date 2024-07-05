@@ -23,7 +23,7 @@ These are all the projects I built while doing the 100 days of coding in Python 
 | Day 04  | Rock, Paper, Scissors - Gameplay         | randomization, lists                                      |
 | Day 03  | Deep Sea Exploration - Gameplay          | control flow, conditional statements                      |
 | Day 02  | Tip Calculator                           | datatypes, string manipulation                            |
-| Day 01  | [Band Name Generator](100-days-of-code-challenge/Basic Projects/Day 01)  | basics of Python variables                                |
+| Day 01  | Band Name Generator                      | basics of Python variables                                |
 
 ### Credits
 Though the codes to these projects are my own, the project ideas are sourced from the "100 Days of Code: The Complete Python Pro Bootcamp" course offered on Udemy.
