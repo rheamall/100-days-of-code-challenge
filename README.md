@@ -1,7 +1,7 @@
 # #100DaysofCode - Challenge
 This is a repository listing all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📖 Basic Projects (Updated as of 4th July 2024):
+### 📖 Basic Projects (Updated as of 5th July 2024):
 
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
@@ -17,6 +17,8 @@ This is a repository listing all the projects I built while doing the 100 days o
 | Day 10  | Math Calculator                          | functions with outputs                                    |
 | Day 11  | Blackjack Gameplay - Capstone Project    | application of all concepts so far                        |
 | Day 12  | Number Guessing Game                     | variable scope                                            |
+| Day 13  | Debugging                                | debugging tips                                            |
+| Day 14  | Higher Lower Game                        | application of all concepts so far                        |
 
 ### 📔 Intermediate Projects
   -
