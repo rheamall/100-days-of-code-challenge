@@ -1,5 +1,5 @@
 # #100DaysofCode - Challenge
-This is a repository listing all the projects I built while doing the 100 days of coding in Python challenge (listed in reverse-chronological order).
+These are all the projects I built while doing the 100 days of coding in Python challenge (listed in reverse-chronological order).
 
 ### 📔 Intermediate Projects (Updated as of 5th July 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
