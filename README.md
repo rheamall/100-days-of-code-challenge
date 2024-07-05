@@ -4,7 +4,7 @@ These are all the projects I built while doing the 100 days of coding in Python 
 ### 📔 Intermediate Projects (Updated as of 5th July 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 15  | The Coffee Machine Project               | setting up the local development environment              |
+| Day 15  | The Coffee Machine Project               | local development environment setup                       |
 
 ### 📖 Basic Projects (Completed):
 
