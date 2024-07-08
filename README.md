@@ -4,14 +4,14 @@ Listed in reverse-chronological order, these are all the projects I built while 
 ### 📔 Intermediate Projects (Updated as of 7th July 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 15  | The Coffee Machine Project               | local development environment setup                       |
-| Day 16  | The Coffee Machine Project (with OOP)    | object oriented programming (OOP), PyPi                   |
+| Day 15  | The Coffee Machine Project               | local development environment                             |
+| Day 16  | The Coffee Machine Project (with OOP)    | object oriented programming                               |
 
 ### 📖 Basic Projects (Completed):
 
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 14  | Higher Lower Game                        | application of all the concepts so far                    |
+| Day 14  | Higher Lower Game                        | application of all concepts so far                        |
 | Day 13  | Debugging                                | debugging tips                                            |
 | Day 12  | Number Guessing Game                     | variable scope                                            |
 | Day 11  | Blackjack Gameplay - Capstone Project    | application of all concepts so far                        |
