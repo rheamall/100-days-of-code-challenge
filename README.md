@@ -5,7 +5,7 @@ Listed in reverse-chronological order, these are all the projects I built while 
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
 | Day 15  | The Coffee Machine Project               | local development environment                             |
-| Day 16  | The Coffee Machine Project (with OOP)    | object oriented programming                               |
+| Day 16  | The Coffee Machine Project (with OOP)    | object oriented programming (OOP)                         |
 
 ### 📖 Basic Projects (Completed):
 
