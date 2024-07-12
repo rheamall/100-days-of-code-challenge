@@ -1,7 +1,7 @@
 # #100DaysofCode - Challenge
 Listed in reverse-chronological order, these are all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📔 Intermediate Projects (Updated as of 7th July 2024):
+### 📔 Intermediate Projects (Updated as of 12th July 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
 | Day 17  | Quiz                                     | object oriented programming (OOP)                         |
