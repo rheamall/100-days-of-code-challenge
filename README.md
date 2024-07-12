@@ -4,7 +4,7 @@ Listed in reverse-chronological order, these are all the projects I built while 
 ### 📔 Intermediate Projects (Updated as of 12th July 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 18  | Dot Painting                             | turtle, tkinter                                           |
+| Day 18  | Dot Painting                             | turtle graphics, tkinter                                  |
 | Day 17  | Quiz                                     | object oriented programming (OOP)                         |
 | Day 16  | The Coffee Machine Project (with OOP)    | object oriented programming (OOP)                         |
 | Day 15  | The Coffee Machine Project               | local development environment                             |
