@@ -4,7 +4,7 @@ Listed in reverse-chronological order, these are all the projects I built while 
 ### 📔 Intermediate Projects (Updated as of 12th July 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 19  | Hirst Painting                           | , instances                 |
+| Day 19  | Turtle Graphics - Building Games         | instances, state & higher order functions                 |
 | Day 18  | Hirst Painting                           | turtle, graphical user interface (GUI)                    |
 | Day 17  | Quiz                                     | object oriented programming (OOP)                         |
 | Day 16  | The Coffee Machine Project (with OOP)    | object oriented programming (OOP)                         |
