@@ -1,9 +1,11 @@
 # #100DaysofCode - Challenge
 Listed in reverse-chronological order, these are all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📔 Intermediate Projects (Updated as of 16th July 2024):
+### 📔 Intermediate Projects (Updated as of 17th July 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
+| Day 21  | Snake Game - Part 2                      | inheritence and list splicing                             |
+| Day 20  | Snake Game - Part 1                      | animation & coordinates                                   |
 | Day 19  | Turtle Graphics - Building Games         | instances, state and higher order functions               |
 | Day 18  | Hirst Painting                           | turtle, graphical user interface (GUI)                    |
 | Day 17  | Quiz                                     | object oriented programming (OOP)                         |
