@@ -4,7 +4,7 @@ Listed in reverse-chronological order, these are all the projects I built while 
 ### 📔 Intermediate Projects (Updated as of 12th July 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 19  | Turtle Graphics - Building Games         | instances, state & higher order functions                 |
+| Day 19  | Turtle Graphics - Building Games         | instances, state and higher order functions               |
 | Day 18  | Hirst Painting                           | turtle, graphical user interface (GUI)                    |
 | Day 17  | Quiz                                     | object oriented programming (OOP)                         |
 | Day 16  | The Coffee Machine Project (with OOP)    | object oriented programming (OOP)                         |
@@ -14,10 +14,10 @@ Listed in reverse-chronological order, these are all the projects I built while 
 
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 14  | Higher Lower Game                        | application of all the concepts learnt so far                    |
+| Day 14  | Higher Lower Game                        | application of all the concepts learnt so far             |
 | Day 13  | Debugging                                | debugging tips                                            |
 | Day 12  | Number Guessing Game                     | variable scope                                            |
-| Day 11  | Blackjack Gameplay - Capstone Project    | application of all the concepts so far                    |
+| Day 11  | Blackjack Gameplay - Capstone Project    | application of all the concepts learnt so far             |
 | Day 10  | Math Calculator                          | functions with outputs                                    |
 | Day 09  | Secret Auction program                   | dictionaries                                              |
 | Day 08  | Ceaser Cipher program                    | functions with inputs                                     |
