@@ -14,7 +14,7 @@ Listed in reverse-chronological order, these are all the projects I built while 
 
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 14  | Higher Lower Game                        | application of all the concepts so far                    |
+| Day 14  | Higher Lower Game                        | application of all the concepts learnt so far                    |
 | Day 13  | Debugging                                | debugging tips                                            |
 | Day 12  | Number Guessing Game                     | variable scope                                            |
 | Day 11  | Blackjack Gameplay - Capstone Project    | application of all the concepts so far                    |
