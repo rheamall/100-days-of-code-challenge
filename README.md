@@ -5,7 +5,7 @@ Listed in reverse-chronological order, these are all the projects I built while 
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
 | Day 19  | Hirst Painting                           | , instances                 |
-| Day 18  | Hirst Painting                           | turtle graphics, graphical user interface (GUI)           |
+| Day 18  | Hirst Painting                           | turtle, graphical user interface (GUI)                    |
 | Day 17  | Quiz                                     | object oriented programming (OOP)                         |
 | Day 16  | The Coffee Machine Project (with OOP)    | object oriented programming (OOP)                         |
 | Day 15  | The Coffee Machine Project               | local development environment                             |
