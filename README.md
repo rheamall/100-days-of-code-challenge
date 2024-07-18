@@ -1,7 +1,7 @@
 # #100DaysofCode - Challenge
 Listed in reverse-chronological order, these are all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📔 Intermediate Projects (Updated as of 17th July 2024):
+### 📔 Intermediate Projects (Updated as of 18th July 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
 | Day 22  | Pong Game                                | application of all the concepts learnt so far             |
