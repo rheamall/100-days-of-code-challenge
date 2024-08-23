@@ -17,19 +17,19 @@ Listed in reverse-chronological order, these are all the projects I built while 
 
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 14  | Higher Lower Game                        | application of all the concepts learnt so far             |
-| Day 13  | Debugging                                | debugging tips                                            |
-| Day 12  | Number Guessing Game                     | variable scope                                            |
-| Day 11  | Blackjack Gameplay - Capstone Project    | application of all the concepts learnt so far             |
-| Day 10  | Math Calculator                          | functions with outputs                                    |
+| Day 14  | [Higher Lower Game](https://github.com/rheamall/100-days-of-code-challenge/tree/162f55cd9f034d4dedcebae9111e20a1b732cf8f/Basic%20Projects/Day%2014)                        | application of all the concepts learnt so far             |
+| Day 13  | [Debugging](https://github.com/rheamall/100-days-of-code-challenge/tree/162f55cd9f034d4dedcebae9111e20a1b732cf8f/Basic%20Projects/Day%2013)                                | debugging tips                                            |
+| Day 12  | [Number Guessing Game](https://github.com/rheamall/100-days-of-code-challenge/tree/162f55cd9f034d4dedcebae9111e20a1b732cf8f/Basic%20Projects/Day%2012)                     | variable scope                                            |
+| Day 11  | [Blackjack Gameplay - Capstone Project](https://github.com/rheamall/100-days-of-code-challenge/tree/162f55cd9f034d4dedcebae9111e20a1b732cf8f/Basic%20Projects/Day%2011)    | application of all the concepts learnt so far             |
+| Day 10  | [Math Calculator](https://github.com/rheamall/100-days-of-code-challenge/tree/162f55cd9f034d4dedcebae9111e20a1b732cf8f/Basic%20Projects/Day%2010)                          | functions with outputs                                    |
 | Day 09  | Secret Auction program                   | dictionaries                                              |
 | Day 08  | Ceaser Cipher program                    | functions with inputs                                     |
 | Day 07  | Hangman - Gameplay                       | flowchart programming                                     |
-| Day 06  | Reeborg's World - Escaping a Maze        | Karel (programming language)                              |
+| Day 06  | [Reeborg's World - Escaping a Maze](https://github.com/rheamall/100-days-of-code-challenge/tree/162f55cd9f034d4dedcebae9111e20a1b732cf8f/Basic%20Projects/Day%2006)        | Karel (programming language)                              |
 | Day 05  | Password Generator                       | loops                                                     |
-| Day 04  | Rock, Paper, Scissors - Gameplay         | randomization, lists                                      |
-| Day 03  | Deep Sea Exploration - Gameplay          | control flow, conditional statements                      |
-| Day 02  | Tip Calculator                           | datatypes, string manipulation                            |
+| Day 04  | [Rock, Paper, Scissors - Gameplay](https://github.com/rheamall/100-days-of-code-challenge/tree/162f55cd9f034d4dedcebae9111e20a1b732cf8f/Basic%20Projects/Day%2004)         | randomization, lists                                      |
+| Day 03  | [Deep Sea Exploration - Gameplay](https://github.com/rheamall/100-days-of-code-challenge/tree/162f55cd9f034d4dedcebae9111e20a1b732cf8f/Basic%20Projects/Day%2003)          | control flow, conditional statements                      |
+| Day 02  | [Tip Calculator](https://github.com/rheamall/100-days-of-code-challenge/tree/162f55cd9f034d4dedcebae9111e20a1b732cf8f/Basic%20Projects/Day%2002)                           | datatypes, string manipulation                            |
 | Day 01  | [Band Name Generator](https://github.com/rheamall/100-days-of-code-challenge/tree/c8e2d0bfa67d797f3adfa826b183c0b293fa3d44/Basic%20Projects/Day%2001)                      | basics of Python variables                                |
 
 ### Credits
