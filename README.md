@@ -4,14 +4,14 @@ Listed in reverse-chronological order, these are all the projects I built while 
 ### 📔 Intermediate Projects (Updated as of 23rd August 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 22  | Pong Game                                | application of all the concepts learnt so far             |
-| Day 21  | Snake Game - Part 2                      | class inheritence and list splicing                       |
-| Day 20  | Snake Game - Part 1                      | animation & coordinates                                   |
-| Day 19  | Turtle Graphics - Building Games         | instances, state and higher order functions               |
-| Day 18  | Hirst Painting                           | turtle, graphical user interface (GUI)                    |
-| Day 17  | Quiz                                     | object oriented programming (OOP)                         |
-| Day 16  | The Coffee Machine Project (with OOP)    | object oriented programming (OOP)                         |
-| Day 15  | The Coffee Machine Project               | local development environment                             |
+| Day 22  | [Pong Game](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2022)                                | application of all the concepts learnt so far             |
+| Day 21  | [Snake Game - Part 2](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2020%20%26%2021)                      | class inheritence and list splicing                       |
+| Day 20  | [Snake Game - Part 1](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2020%20%26%2021)                      | animation & coordinates                                   |
+| Day 19  | [Turtle Graphics - Building Games](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2019)         | instances, state and higher order functions               |
+| Day 18  | [Hirst Painting](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2018)                           | turtle, graphical user interface (GUI)                    |
+| Day 17  | [Quiz](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2017)                                     | object oriented programming (OOP)                         |
+| Day 16  | [The Coffee Machine Project (with OOP)](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2016)    | object oriented programming (OOP)                         |
+| Day 15  | [The Coffee Machine Project](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2015)               | local development environment                             |
 
 ### 📖 Basic Projects (Completed):
 
