@@ -4,7 +4,7 @@ Listed in reverse-chronological order, these are all the projects I built while 
 ### 📔 Intermediate Projects (Updated as of 22nd December 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
-| Day 23  | [Turtle Crossing Game](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2022)                                | application of all the concepts learnt so far             |
+| Day 23  | [Turtle Crossing Game](Intermediate Projects/Day 23)                                | application of all the concepts learnt so far             |
 | Day 22  | [Pong Game](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2022)                                | application of all the concepts learnt so far             |
 | Day 21  | [Snake Game - Part 2](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2020%20%26%2021)                      | class inheritence and list splicing                       |
 | Day 20  | [Snake Game - Part 1](https://github.com/rheamall/100-days-of-code-challenge/tree/607064d0ab923d8e1de57d4a7c3b750777600f44/Intermediate%20Projects/Day%2020%20%26%2021)                      | animation & coordinates                                   |
