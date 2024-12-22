@@ -4,6 +4,6 @@ In this game, the player has to cross a road full of cars while avoiding collisi
 
 ### Demonstration 
 
-https://github.com/user-attachments/assets/d72bd6c0-d225-4177-a981-21c85e29382e
+![turtle crossing](https://github.com/user-attachments/assets/8d8b2e02-65f5-42ef-8ed0-337a435a2bbc)
 
 Concepts: Application of all concepts so far
