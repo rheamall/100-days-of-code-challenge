@@ -1,7 +1,7 @@
 # #100DaysofCode - Challenge
 Listed in reverse-chronological order, these are all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📔 Intermediate Projects (Updated as of 22nd December 2024):
+### 📔 Intermediate Projects (Updated as of 23rd December 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
 | Day 24  | [Snake Game High Score; Mail Merge](https://github.com/rheamall/100-days-of-code-challenge/tree/58031b2973aeca42df393b5a59c54e1673bfa085/Intermediate%20Projects/Day%2024)                               | files, directories, paths             |
