@@ -35,7 +35,7 @@ Listed in reverse-chronological order, these are all the projects I built while 
 | Day 01  | [Band Name Generator](https://github.com/rheamall/100-days-of-code-challenge/tree/c8e2d0bfa67d797f3adfa826b183c0b293fa3d44/Basic%20Projects/Day%2001)                      | basics of Python variables                                |
 
 ### Credits
-Though the codes to these projects are my own, the project ideas are sourced from the "100 Days of Code: The Complete Python Pro Bootcamp" course offered on Udemy.
+The codes uploaded here are my own. The project ideas are all sourced from the "100 Days of Code: The Complete Python Pro Bootcamp" course, by Angela Yu, offered on Udemy.
 
 ## Feedback is welcome. Connect with me:
 - Linkedin: https://www.linkedin.com/in/rheamall
