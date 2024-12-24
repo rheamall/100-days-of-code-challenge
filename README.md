@@ -1,7 +1,7 @@
 # #100DaysofCode - Challenge
 Listed in reverse-chronological order, these are all the projects I built while doing the 100 days of coding in Python challenge.
 
-### 📔 Intermediate Projects (Updated as of 23rd December 2024):
+### 📔 Intermediate Projects (Updated as of 24th December 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
 | Day 25  | [Indian States Game](https://github.com/rheamall/100-days-of-code-challenge/tree/329d8b352d3c877c0e3182a557fa1f85aeb59b6a/Intermediate%20Projects/Day%2025)                               | working with csv data, Pandas             |
