@@ -4,6 +4,7 @@ Listed in reverse-chronological order, these are all the projects I built while 
 ### 📔 Intermediate Projects (Updated as of 24th December 2024):
 | Day     | Project Name                             | Concepts Covered                                          |
 | ------- | -------------                            | -------------                                             |
+| Day 26  | NATO Phonetic Alphabet                            | list and dictionary comprehension             |
 | Day 25  | [Indian States Game](https://github.com/rheamall/100-days-of-code-challenge/tree/329d8b352d3c877c0e3182a557fa1f85aeb59b6a/Intermediate%20Projects/Day%2025)                               | working with csv data, Pandas             |
 | Day 24  | [Snake Game High Score; Mail Merge](https://github.com/rheamall/100-days-of-code-challenge/tree/36ed7a253b32bd8f4a40e73a6bd0977df518633c/Intermediate%20Projects/Day%2024)                               | files, directories, paths             |
 | Day 23  | [Turtle Crossing Game](https://github.com/rheamall/100-days-of-code-challenge/tree/8e16e9341a1bc759c8fa4423193b3da15321bc30/Intermediate%20Projects/Day%2023)                                | application of all the concepts learnt so far             |
